@@ -38,3 +38,4 @@ func bSearch(arr []int, e int) (int, bool) {
     }
   }
   return 0, false                 // Return 0 and false if the item isnt found
+}
